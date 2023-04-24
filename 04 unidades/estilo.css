@@ -1,0 +1,47 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+div{
+  width: 200px;
+  height: 200px;
+  background: red;
+  display: block;
+  margin: 10px;
+  border: 2px solid yellow;
+}
+body{
+  font-size: 20px;
+}
+#caja1{
+  width: 2in;
+  height: 2in;
+}
+#caja2{
+  width: 3cm;
+  height: 3cm;
+}
+#caja3{
+  width: 80mm;
+  height: 80mm;
+}
+#caja4{
+  width: 35pt;
+  height: 35pt;
+}
+#caja5{
+  width: 15pc;
+  height: 15pc;
+}
+#caja6{
+  width: 10em;
+  height: 10em;
+}
+#caja7{
+  width: 6ex;
+  height: 7ex;
+}
+#caja8{
+    width: 300px;
+  height: 100px;
+}
